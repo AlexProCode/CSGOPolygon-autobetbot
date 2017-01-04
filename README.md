@@ -1,5 +1,5 @@
 # CSGOPolygon-autobetbot
-### CSGOPolygon.com betBOT. About 30% profit per Day - depending on the method. I recommend Inteligence!
+### CSGOPolygon.com betBOT. About 30% profit per Day - depending on the method. 
 Last update: 04/01/2017 
 
 
@@ -8,24 +8,28 @@ Program interface
 
 ## How to run bot??????
 ```
-1 - Open csgodouble.com in the main page (bets).
-2 - Open the console (SHIFT+CRTL+J)
-3 - Copy the code of csgodouble-bot-automated.js and paste in console.
-4 - The page will change and you chose what you want and next click start. 
-After just need to leave page open and bot will do everyting. 35% profit 
+1 - Open csgopolygon.com in the main page and log in with your creditentials.
+2 - Open the console SHIFT+CRTL+I or type F12 and go to console.
+3 - Copy the code of CSGOPolygon-autobetbot.js and paste in console.
+4 - Bot will run in small windows which can be minimized by clickin on "x" (screen below) 
+After just need to set up bot with method which you prefere to play ( Recomendation - Inteligence 30% profit )
 ```
+![Screenshot](http://i.imgur.com/l3pCMNJ.png)
 
 ## Is it safe?
 
-Yes, you can use this script and don't worry about CSGODouble banning you - firstly, they don't really lose anything on you, secondary, checking for such activity is really troublesome.
+Yes, you can use this script and don't worry about CSGOPolygon banning you - firstly, they don't really lose anything on you, secondary, checking for such activity is really troublesome.
 
-## About ##
+## Methods of play ##
 
-The script uses martingale to bet your coins, this means that with every lose it doubles bet value, changing it back to base after win. That, in theory, means you always win base value.
+You can check styles of plays on below screenshot, you have really good selection.
+Of course the most important thing is that you are deciding which method you wanna play. 
+
+![Screenshot](http://i.imgur.com/0AaDWJO.png)
 
 ## Changelog ##
 
-1.22:
+1.20:
 
 - Two new modes - bet on random color, bet on last winning color
 - New bet system - `D'alembert`
