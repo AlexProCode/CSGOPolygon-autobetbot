@@ -1,10 +1,9 @@
-// Instruction: -Open CSGOPolygon.com
-//              -Press "F12"
-//              -Go to Console
-//              -Check out for "top"
-//              -Paste the script and press enter
-// BEST STRATEGIE: Try to get over 500.000 coins and put the start bet amount on 975 coins, then click on "Intelligence"                                                                          
- 
+//// Instruction: -Open CSGOPolygon.com
+// -Press "F12"
+// -Go to Console
+// -Check out for "top"
+// -Paste the script and press enter
+// -v1.20
  
 setTimeout(function(){
  
