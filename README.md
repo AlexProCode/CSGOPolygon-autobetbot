@@ -6,7 +6,7 @@ Last update: 04/01/2017
 Program interface
 ![Screenshot](http://i.imgur.com/Q0VDnuK.png)
 
-## How to run bot??????
+## How to run bot?
 ```
 1 - Open csgopolygon.com in the main page and log in with your creditentials.
 2 - Open the console SHIFT+CRTL+I or type F12 and go to console.
@@ -23,7 +23,7 @@ Yes, you can use this script and don't worry about CSGOPolygon banning you - fir
 ## Methods of play ##
 
 You can check styles of plays on below screenshot, you have really good selection.
-Of course the most important thing is that you are deciding which method you wanna play. 
+Of course the most important thing is that you are deciding which method you wanna play. Also, great feature is that you can make quick calculation how many coins do you need to dont lose everything in few games. 
 
 ![Screenshot](http://i.imgur.com/0AaDWJO.png)
 
